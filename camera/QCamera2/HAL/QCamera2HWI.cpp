@@ -36,6 +36,7 @@
 #include <stdlib.h>
 #include <utils/Errors.h>
 #include <gralloc_priv.h>
+#include "util/QCameraFlash.h"
 #include <binder/Parcel.h>
 #include <binder/IServiceManager.h>
 #include <utils/RefBase.h>
